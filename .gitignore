@@ -1,0 +1,8 @@
+venv
+.env
+__pycache__/
+.vscode
+.idea
+affiliate_link_check/*.csv
+*.egg-info
+
